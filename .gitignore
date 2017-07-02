@@ -1,0 +1,5 @@
+.nyc_output
+artifacts
+node_modules
+.eslintcache
+jsdocs
